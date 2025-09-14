@@ -2,4 +2,4 @@ title: Dawnette Crew
 logo: /https://github.com/dawnettecrew/portfolio/blob/main/Dawn%20portfolio.jpg
 tagline: Educator turned inspiring developer, blending creativity and problem-solving to design intuitive, user-focused digital tools.
 #show_downloads: false
-remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
