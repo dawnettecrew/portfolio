@@ -20,5 +20,5 @@ Bachelor Degree - B.S. - 2007 - Interdisciplinary Studies and Special Education
 
 ### Certifications
 ODLC Austin, TX - November 2019 - Microsoft Power Bi Data Analytics
-<i>In progress</i> - Meta Full-Stack Developer Certification
-<i>In progress</i> - PMI Project Management Professional (PMP)
+<br><i>In progress</i> - Meta Full-Stack Developer Certification
+<br><i>In progress</i> - PMI Project Management Professional (PMP)
