@@ -19,6 +19,6 @@ Bachelor Degree - B.S. - 2007 - Interdisciplinary Studies and Special Education
 <b>Investigator & Auditor</b>- 2006<br>Led complex investigations and compliance audits for federal programs, applying analytical frameworks to identify risks, ensure data integrity, and monitor adherence to regulatory standards. Conducted risk assessments in collaboration with cross-functional teams, strengthening decision-making processes and system reliability. Developed expertise in auditing procedures, compliance monitoring, and mediation support, skills directly transferable to technology environments requiring data governance, risk management, and process validation.
 
 ### Certifications
-ODLC Austin, TX - November 2019 - Microsoft Power Bi Data Analytics
+ODLC Austin, TX - 2019 - Microsoft Power Bi Data Analytics
 <br><i>In progress</i> - Meta Full-Stack Developer Certification
 <br><i>In progress</i> - PMI Project Management Professional (PMP)
