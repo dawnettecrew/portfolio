@@ -1,7 +1,7 @@
 # Inspiring Developer
 
 ### Education
-Doctorate Degree - Ed.D. - 2025 - Organizational Leadership and Policy Studies
+Doctorate Degree - Ed.D. - 2025 - Educational Leadership and Policy Studies
 
 Master Degree - M.Ed. - 2013 - Special Education and Educational Diagnostician
 
