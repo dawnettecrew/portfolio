@@ -1,11 +1,11 @@
 # Inspiring Developer
 
 ### Education
-Doctorate - Ed.D. - 2025 - Organizational Leadership and Policy Studies
+Doctorate Degree - Ed.D. - 2025 - Organizational Leadership and Policy Studies
 
-Master - M. Ed. - 2013 - Special Education and Educational Diagnostician
+Master Degree - M. Ed. - 2013 - Special Education and Educational Diagnostician
 
-Bachelor - B.S. - 2007 - Interdisciplinary Studies and Special Education
+Bachelor Degree - B.S. - 2007 - Interdisciplinary Studies and Special Education
 
 ### Work Experience
 Program Manager - 2022 - As a Program Manager, I drive the design and improvement of technology solutions that balance policy requirements with user needs. I work with clients from platform implementation through adoption, providing guidance, training, and support to ensure success. My work includes UX design, quality assurance testing in agile environments, and leading professional development to build user confidence. By fostering cross-functional collaboration and applying expertiese in data analysis and reporting, I help deliver intuitive, reliable, and impactful products. 
