@@ -2,7 +2,9 @@
 
 ### Education
 Doctorate - Ed.D. - 2025 - Organizational Leadership and Policy Studies
+
 Master - M. Ed. - 2013 - Special Education and Educational Diagnostician
+
 Bachelor - B.S. - 2007 - Interdisciplinary Studies and Special Education
 
 ### Work Experience
